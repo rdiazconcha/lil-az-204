@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962875759114",
+    "firebase_url": "https://curso-az204.firebaseio.com",
+    "project_id": "curso-az204",
+    "storage_bucket": "curso-az204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962875759114:android:addd4bca88649058249df3",
+        "android_client_info": {
+          "package_name": "com.xamarin.notifysample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962875759114-48aedhtb0q0u0a2coo288vikts64giuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQnL-7lov3h5Z2vGQ72zlxB_2QQ0tgd7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962875759114-48aedhtb0q0u0a2coo288vikts64giuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

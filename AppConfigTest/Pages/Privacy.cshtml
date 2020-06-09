@@ -1,0 +1,16 @@
+﻿@page
+@model PrivacyModel
+
+<style>
+    body {
+        background-color: @ViewData["BackgroundColor"]
+    }
+    h1 {
+        color: @ViewData["FontColor"];
+        font-size: @ViewData["FontSize"];
+    }
+</style>
+
+<body>
+    <h1>@ViewData["Message"]</h1>
+</body>

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>eventhubs_receive</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Messaging.EventHubs" Version="5.1.0" />
+    <PackageReference Include="Azure.Messaging.EventHubs.Processor" Version="5.1.0" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.4.4" />
+  </ItemGroup>
+
+</Project>
