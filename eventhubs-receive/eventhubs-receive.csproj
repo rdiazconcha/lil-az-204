@@ -9,7 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Azure.Messaging.EventHubs" Version="5.1.0" />
     <PackageReference Include="Azure.Messaging.EventHubs.Processor" Version="5.1.0" />
-    <PackageReference Include="Azure.Storage.Blobs" Version="12.4.4" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.13.0" />
   </ItemGroup>
 
 </Project>
